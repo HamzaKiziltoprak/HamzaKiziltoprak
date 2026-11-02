@@ -1,13 +1,13 @@
 # Hamza Kızıltoprak
 
-**Computer Engineering Student** | Manisa Celal Bayar University  
-**Full-Stack Developer** | React • ASP.NET Core • Python
+**M.Sc. Student in Computer Engineering** | İzmir Institute of Technology (IZTECH)  
+**Full-Stack Developer** | PHP / Laravel • Python • React
 
 ---
 
 ## About Me
 
-Final-year Computer Engineering student with a focus on modern web development and artificial intelligence.
+Computer Engineering graduate (B.Sc., Manisa Celal Bayar University), currently pursuing a thesis-based M.Sc. in Computer Engineering at İzmir Institute of Technology. I build full-stack web applications with PHP/Laravel, Python and React, with a strong interest in artificial intelligence.
 
 **Research Interests:**
 - Computer Vision
