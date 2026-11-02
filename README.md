@@ -34,9 +34,9 @@ Computer Engineering graduate (B.Sc., Manisa Celal Bayar University), currently 
 
 ## GitHub Statistics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HamzaKiziltoprak&show_icons=true&theme=tokyonight)
+![GitHub Stats](./profile/stats.svg)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaKiziltoprak&layout=compact&theme=tokyonight)
+![Top Languages](./profile/top-langs.svg)
 
 ---
 
